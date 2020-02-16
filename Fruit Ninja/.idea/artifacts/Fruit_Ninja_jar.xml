@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Fruit Ninja:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Fruit_Ninja_jar</output-path>
+    <root id="archive" name="Fruit Ninja.jar">
+      <element id="module-output" name="Fruit Ninja" />
+    </root>
+  </artifact>
+</component>
